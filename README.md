@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Vicente 👋
 
-<!--
-**VicenteORDO/VicenteORDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the Co-Founder & CTO of **ORDO** — a calm personal organization app designed to help people manage tasks, habits, calendar, events and journaling in one focused place.
 
-Here are some ideas to get you started:
+## About ORDO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ORDO is being built for people who want structure without noise.
+
+Our goal is simple:
+
+> Help users organize their life with clarity, consistency and calm.
+
+We are currently preparing ORDO for its first closed beta.
+
+## What I'm working on
+
+- Building and scaling the ORDO platform
+- Designing the backend and frontend architecture
+- Improving performance, reliability and security
+- Preparing the product for closed beta
+- Creating a solid technical foundation for future web and mobile growth
+
+## Technical focus
+
+ORDO is focused on delivering a clean, reliable and scalable product experience across:
+
+- Tasks
+- Habits
+- Calendar
+- Events
+- Journaling
+- User progress
+- Personal organization systems
+
+## Current priorities
+
+- Web app stability
+- API reliability
+- Authentication and user management
+- Closed beta infrastructure
+- Product scalability
+- Secure and maintainable code
+
+## Links
+
+- Website: [app-ordo.com](https://app-ordo.com)
+- Email: [email@app-ordo.com](mailto:email@app-ordo.com)
+
+---
+
+Building ORDO with clarity, calm and strong technical foundations.
